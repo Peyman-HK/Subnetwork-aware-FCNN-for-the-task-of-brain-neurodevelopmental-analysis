@@ -1,4 +1,4 @@
-# Subnetwork aware FCNN for the brain neurodevelopmental analysis
+# Explainable subnetwork-aware FCNN for the brain neurodevelopmental analysis
 
 There are three input datsets that should be read:
 1- BOLD fMRI N-Bck data that is stored in the Mat file.
